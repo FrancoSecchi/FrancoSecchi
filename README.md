@@ -1,7 +1,9 @@
 `Segmentation fault (core dumped)`
 
 ## 💫 About Me:
-Hi! I'm a passionate software developer working as a full stack developer at TitanPush. I love reading and learning new things about programming, especially exploring Rust and diving into DevOps practices. I believe in the value of sharing knowledge, which is why I enjoy teaching and helping others grow in their coding journey.<br><br>Currently, I'm working as a freelance developer at Dumbell, where I focus on creating scalable and efficient solutions. I'm always open to new challenges and aim to improve both my technical and soft skills continuously.<br>Fun fact: I think the phrase I've seen the most in my life is "Invalid Read of Size 8.
+Hi! I'm a passionate software developer working as a full stack developer at TitanPush. I love reading and learning new things about programming, especially exploring Rust and diving into DevOps practices. I believe in the value of sharing knowledge, which is why I enjoy teaching and helping others grow in their coding journey.<br><br>Currently, I'm working as a freelance developer at Dumbell, where I focus on creating scalable and efficient solutions. I'm always open to new challenges and aim to improve both my technical and soft skills continuously.
+
+I think the phrase I've seen the most in my life is `Invalid Read of Size 8`.
 
 
 ## 🌐 Socials:

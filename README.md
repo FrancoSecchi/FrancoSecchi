@@ -1,7 +1,7 @@
 `Segmentation fault (core dumped)`
 
 ## 💫 About Me:
-Hi! I'm a passionate software developer working as a full stack developer at ![TITANPush](https://www.titanpush.com/). I believe in the value of sharing knowledge, which is why I enjoy teaching and helping others grow in their coding journey.<br><br>Currently, I'm working as a freelance developer too, where I focus on creating scalable and efficient solutions. I'm always open to new challenges and aim to improve both my technical and soft skills continuously.
+Hi! I'm a passionate software developer working as a full stack developer at https://www.titanpush.com/. I believe in the value of sharing knowledge, which is why I enjoy teaching and helping others grow in their coding journey.<br><br>Currently, I'm working as a freelance developer too, where I focus on creating scalable and efficient solutions. I'm always open to new challenges and aim to improve both my technical and soft skills continuously.
 
 I think the phrase I've seen the most in my life is `Invalid Read of Size 8`.
 

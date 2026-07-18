@@ -5,6 +5,7 @@ Hi! I'm a passionate software developer working as a full stack developer at htt
 
 I think the phrase I've seen the most in my life is `Invalid Read of Size 8`.
 
+![Personal website](https://francosecchi.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franco-secchi-9abb3a173/) 
